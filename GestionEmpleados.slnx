@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GestionEmpleados.Application/GestionEmpleados.Application.csproj" Id="38319469-edc2-42da-b751-b2d1e221945f" />
+  <Project Path="GestionEmpleados.Domain/GestionEmpleados.Domain.csproj" Id="3b78f5d0-610f-4321-b297-72848c3d2ddf" />
+  <Project Path="GestionEmpleados.Infraestructure/GestionEmpleados.Infraestructure.csproj" Id="94e481a5-047c-4c09-80e5-4b985f70b504" />
+  <Project Path="GestionEmpleados_Api/GestionEmpleados_Api.csproj" />
+</Solution>
